@@ -8,3 +8,5 @@ It consists in an activation function similar than Softmax but can give us spars
 
 
 I tested replacing the softmax activation in the last layer and it gives similar results.
+
+Coded by Max Raphael Sobroza Marques
